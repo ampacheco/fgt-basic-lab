@@ -1,2 +1,2 @@
 ## About this Repo
-Create a Basic Two Workloads Setup to demostrate Fortigate Traffic Filtering N/S and E/W.
+Create a Basic Two Workloads Setup to demonstrate Fortigate Traffic Filtering N/S and E/W.
