@@ -39,4 +39,7 @@ delete-rgs:
 	$(CMD_RES_GROUP_3_DELETE)
 	
 .PHONY: create-rgs create-vnets create-vms delete-rgs
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7c6e18b (Initial commit)
